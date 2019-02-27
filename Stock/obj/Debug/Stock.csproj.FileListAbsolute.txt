@@ -1,0 +1,12 @@
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\Mohammad Yahya\source\repos\Stock\Stock\obj\Debug\Stock.Products.resources
